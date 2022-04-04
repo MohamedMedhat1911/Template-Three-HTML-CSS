@@ -1300,7 +1300,7 @@ width: 100%;
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
     position: relative;
-    background: url("Images/stats.jpg");
+    background: url("../Images/stats.jpg");
     background-size: cover;
     min-height: 300px;
 }
